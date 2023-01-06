@@ -4,10 +4,14 @@
     {
         public static void Main(String[] args)
         {
-           // EmployeeAttendence.checkAttendence();
+            //Console.WriteLine("Welcome to Employee Wage Computation");
+            // EmployeeAttendence.checkAttendence(); 
+            //EmpWage.CheckWage();
+            // ParttimeEmp.CheckWage();
+            //Switchcase.CheckWage();
+           // EmpMonthlySal.CheckWage();
+           CondTotal.CheckWage();
 
-
-            Console.WriteLine("Welcome to Employee Wage Computation");
         }
 
     }
